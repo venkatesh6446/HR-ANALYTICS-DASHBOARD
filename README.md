@@ -43,6 +43,8 @@ The dataset used for this analysis was sourced from Kaggle, containing comprehen
 This project demonstrates practical knowledge of Business Intelligence tools, dashboard storytelling, and HR domain understanding. It’s designed to appeal to recruiters from data-driven, product-based companies looking for professionals skilled in data analytics and visualization.
 
 📷 Dashboard Screenshot 
+🖼 [Click here to view the dashboard screenshot](https://github.com/venkatesh6446/HR-ANALYTICS-DASHBOARD/blob/main/HR_Analytics_Dashboard_Overview.png)
+
 
 
 
